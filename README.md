@@ -55,7 +55,7 @@ Relational database (PostgreSQL) with these tables:
 - Reallocate marketing budget toward the United States and Australia, the markets with ROI above 49 %.
 - Audit and restructure campaigns in the UK, Germany, France and Canada, adjusting targeting or reducing spend.
 
-The full executive summary, including the Context → Finding → Implication analysis, is available in [executive_summary.xlsx](executive_summary.xlsx).
+The full executive summary, including the Context → Finding → Implication analysis, is available in [executive_summary.xlsx](executive_summary.pdf).
 
 ## 🧰 Skills demonstrated
 
